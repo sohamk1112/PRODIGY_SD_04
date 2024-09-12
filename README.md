@@ -52,9 +52,6 @@ python sudoku_gui.py
 - Leave cells empty (or fill with `0`) for unknown values.
 - Press the **Solve** button, and the solution will be displayed in the grid. If the puzzle has no valid solution, a message box will inform you.
 
-## Example
-
-![Sudoku Solver GUI](screenshot.png)
 
 ## License
 
